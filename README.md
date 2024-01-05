@@ -12,8 +12,7 @@
 <br> 🏗️: I’m currently working on: <br>
 - **EVM** <br>
 - **Solana** <br>
-- **Cosmos Network
-- ** <br>
+- **Cosmos Network** <br>
 <br> 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
 <br> 📓: Project specifications can be viewed upon request to private repositories.
 <br> 💷: I offer my developer services for private projects and consultations.
