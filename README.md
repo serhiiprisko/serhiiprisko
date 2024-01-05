@@ -17,7 +17,6 @@
 <br> 📓: Project specifications can be viewed upon request to private repositories.
 <br> 💷: I offer my developer services for private projects and consultations.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
- <br> 📫 How to reach me: Email: sergijprisko031@gmail.com
 
 #### Top Technologies
 
@@ -34,25 +33,3 @@
 [![Web3 Badge](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white)](#)
 [![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)](#)
 [![VSCode Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white)](#)
-
-
-### Github Stats ### 
-
-<p align="center">
-    <a href=""><img src="http://github-readme-streak-stats.herokuapp.com?user=thequantumdomain&theme=blue-green&hide_border=true&ring=60DD7D"/></a>
-</p>
-
-
-<p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true&hide=contribs,prs"/></a>
-</p>
-
-
-<p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=blue-green"(https://github.com/anuraghazra/github-readme-stats)"/></a>
-</p>
-
-<br />
-<br />
-
-<br >
