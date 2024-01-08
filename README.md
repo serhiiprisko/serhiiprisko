@@ -1,19 +1,19 @@
 ## Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-:uk: I'm Serhii <br>
+I'm Serhii <br>
 💻  Full Stack & Blockchain Engineer <br> 
 <br>
 
-⚒️: Areas of expertise: Financial Engineering, Distributed Computing, Blockchain, Computational Physics, Quantum Computing, Machine Learning, Artificial Intelligence, Data Analytics.
-<br> 🏛️: Industry: Finance
-<br> 🎓: Natural Sciences BSc.
+⚒️: Areas of expertise: Web Development, Desktop Development, Mobile Development, Blockchain, Machine Learning, Artificial Intelligence, Data Analytics.
+<br> 🏛️: Industry: IT Development
+<br> 🎓: Computer Sciences BSc.
 <br> 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
 <br> 🏗️: I’m currently working on: <br>
 - **EVM** <br>
 - **Solana** <br>
 - **Cosmos Network** <br>
-<br> 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
+<br> 🤔 I’m looking for help with developing a dApp development.
 <br> 📓: Project specifications can be viewed upon request to private repositories.
 <br> 💷: I offer my developer services for private projects and consultations.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
